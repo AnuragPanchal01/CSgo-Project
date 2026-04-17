@@ -123,6 +123,7 @@ The notebook currently reads the dataset using an absolute local path. If you ru
 df = pd.read_csv('../Data/csgo_round_snapshots.csv')
 ```
 
+## Author
 
 **Anurag Panchal**
 
